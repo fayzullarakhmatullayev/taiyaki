@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'DFKaiSho-SB';
+    src: url('DFKaiSho-SB-WIN-RKSJ-H.woff2') format('woff2'),
+        url('DFKaiSho-SB-WIN-RKSJ-H.woff') format('woff'),
+        url('DFKaiSho-SB-WIN-RKSJ-H.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DFPKaiSho-Bd';
+    src: url('DFKaiSho-Bd-WINP-RKSJ-H.woff2') format('woff2'),
+        url('DFKaiSho-Bd-WINP-RKSJ-H.woff') format('woff'),
+        url('DFKaiSho-Bd-WINP-RKSJ-H.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DFGKaiSho-Bd';
+    src: url('DFKaiSho-Bd-WING-RKSJ-H.woff2') format('woff2'),
+        url('DFKaiSho-Bd-WING-RKSJ-H.woff') format('woff'),
+        url('DFKaiSho-Bd-WING-RKSJ-H.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
